@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScriptExtensionGroup  Name="Style Checker">
+  <Category Name="acQuire Plugins">
+    <ScriptExtension  Name="Style Checker"  Version="1.0"
+                      Author="acQuire"  HomePage="www.acquire.com.au">
+      <Script  Name="CheckStyle.sj" InitRoutine="" FinalRoutine="">
+
+        <DesignTimeAction  Name="Style Checker" Icon="scicon.bmp" Routine="ExportCodeEditor"/>
+      </Script>
+
+      <Description>
+        Provides toolbar button to style-check code.
+      </Description>
+    </ScriptExtension>
+  </Category>
+</ScriptExtensionGroup>

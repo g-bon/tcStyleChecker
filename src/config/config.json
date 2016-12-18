@@ -1,0 +1,15 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "strict": false,
+  "quotmark": "double",
+  "trailing": true,
+  "white": false,
+  "smarttabs": false,
+  "maxlen": 100,
+  "newcap": false,
+  "undef": false,
+  "unused": false,
+  "indent": 4,
+  "sub": true
+}
